@@ -1,0 +1,11 @@
+\.*
+branches
+config
+description
+FETCH_HEAD
+HEAD
+hooks
+info
+objects
+refs
+UM_hus_100hPa.npy
